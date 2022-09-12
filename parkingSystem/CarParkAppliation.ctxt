@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CarParkAppliation
+comment0.text=\r\n\ Project\ 1\ -\ Parking\ Spot\ System\ -\ Main\ Class\r\n\ @author\ Hamish\ Sandys-Renton\r\n\ @version\ JDK\ 1.8\r\n\ @date\ Created\ on\ 5th\ September\ 2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Appliation\r\n\ @param\r\n
+comment2.params=
+comment2.target=void\ printMenu()
+comment2.text=\r\n\ Method\ to\ print\ menu\ to\ console\r\n
+numComments=3

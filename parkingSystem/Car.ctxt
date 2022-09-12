@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Project\ 1\ -\ Car\ Class\r\n\ @author\ Hamish\ Sandys-Renton\r\n\ @version\ JDK\ 1.8\r\n\ @date\ Created\ on\ 5th\ September\ 2022\r\n
+comment1.params=regNumber\ carOwner\ isStaffMember
+comment1.target=Car(java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRegNumber()
+comment2.text=\r\n\ Getters\ and\ Setters\r\n
+comment3.params=
+comment3.target=java.util.Date\ getDate()
+comment4.params=regNumber
+comment4.target=void\ setRegNumber(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCarOwner()
+comment6.params=carOwner
+comment6.target=void\ setCarOwner(java.lang.String)
+comment7.params=
+comment7.target=boolean\ getIsStaffMember()
+comment8.params=isStaffMember
+comment8.target=void\ setIsStaffMember(boolean)
+numComments=9
